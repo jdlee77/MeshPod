@@ -1,5 +1,5 @@
 # MeshPod
-  Meshtastic Node Pod "sled" for waterproof(ish) case for the Heltec V3 and a 1100mAH battery. 
+  ## Meshtastic Node Pod "sled" for waterproof(ish) case for the Heltec V3 and a 1100mAH battery. 
 
    BOM Amazon links:
    Heltec v3 board and antenna https://a.co/d/eKZhNmI
